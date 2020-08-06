@@ -4,7 +4,6 @@
 
 import { h, render } from "../renderer";
 
-/** @jsx h */
 const template = <p className="sample">Hello from react</p>;
 
 // ReactDOM.render(template, document.getElementById('root'));
